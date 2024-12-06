@@ -90,6 +90,4 @@ export default defineConfig({
 });
 ```
 
-Copy code to clipboard
-
 Remix's route configuration approach blends convention with flexibility. You can use the `app/routes` folder for an easy, organized way to set up your routes. If you want more control, dislike the file names, or have unique needs, there's `vite.config.ts`. It is expected that many apps forgo the routes folder convention in favor of `vite.config.ts`.
