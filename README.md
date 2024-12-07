@@ -52,12 +52,9 @@ app/
 ├── about/
 │   └── route.tsx
 ├── concerts/
-│   ├── card.tsx
 │   ├── city.tsx
-│   ├── favorites-cookie.ts
 │   ├── home.tsx
 │   ├── layout.tsx
-│   ├── sponsored.tsx
 │   └── trending.tsx
 ├── home/
 │   ├── header.tsx
